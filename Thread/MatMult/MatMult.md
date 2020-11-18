@@ -102,7 +102,7 @@ int main()
 }
 ```
 
-![Matrix%20Multiplication%205c9f7fa1b4b14c669c2f7cacde14efff/Screen_Shot_2020-11-10_at_6.14.37_PM.png](Matrix%20Multiplication%205c9f7fa1b4b14c669c2f7cacde14efff/Screen_Shot_2020-11-10_at_6.14.37_PM.png)
+![MatMult/Screen_Shot_2020-11-10_at_6.14.37_PM.png](MatMult/Screen_Shot_2020-11-10_at_6.14.37_PM.png)
 
 What happend to this code?
 
